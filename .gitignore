@@ -1,0 +1,13 @@
+# Ignore local jupyter server config
+jupyter_lab_config.py
+
+# Ignore jupyter checkpoints
+**/.ipynb_checkpoints
+
+# Ignore data files
+data/**
+*.csv
+
+# Ignore cache files
+*.pyc
+**/__pycache__
