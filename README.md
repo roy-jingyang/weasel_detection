@@ -15,7 +15,7 @@ patterns.
 
 For each of them, we provide a Jupyter Notebook that contains an implementation
 of the designed detection method and the related visualization. All
-implementations are done in Python (version 3.2.1). Specifically, interactive
+implementations are done in Python (version 3.12.1). Specifically, interactive
 visualizations are built using Python-Altair[^VanderPlas2018]. 
 
 The implemented methods are evaluated on a proprietary event log dataset as
