@@ -18,7 +18,7 @@ of the designed detection method and the related visualization. All
 implementations are done in Python (version 3.12.1). Specifically, interactive
 visualizations are built using Python-Altair[^VanderPlas2018]. 
 
-The implemented methods are evaluated on a proprietary event log dataset as
+The implemented methods are evaluated on a publicly accessible event log dataset as
 indicated in the paper. The evaluation results can be found in the corresponding
 notebook. 
 
